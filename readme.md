@@ -41,9 +41,9 @@ Creating A Blog In Django has interactive UI design using which users can see wh
 ## 🚀 Setup/Installation Requirements
 
 To view the website, 
-* click [Python Django Blog Website](https://github.com/keerti1924/Python-Django-Blog-Website.git)
+* click [Python Django Blog Website](https://github.com/akumi07/Django-Blog-App)
 or 
-* copy the link https://github.com/keerti1924/Python-Django-Blog-Website.git paste it to your browser and load it.  
+* copy the link https://github.com/akumi07/Django-Blog-App paste it to your browser and load it.  
 
 ## 🛠 Built With
 
